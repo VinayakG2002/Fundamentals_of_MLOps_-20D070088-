@@ -10,7 +10,7 @@ Solution- AIOps is the application of artificial intelligence to enhance IT oper
 
 MLOps, on the other hand, pays attention to the managing training and testing data that is needed to create ML models effectively. It focuses on the ML operationalization pipeline. It’s a way to manage and streamline the building, deployment and maintenance of algorithms. MLOps bridges the gap between model building and deployment.
 
-MLOps or AIOps both have are done to achieve the same end goal; i.e. business automation. 
+MLOps or AIOps both are done to achieve the same end goal; i.e. business automation. 
 
 
 2. ***Interpretable Machine Learning*** is another concept that has attracted lot of attention recently & is promoted by most of the MLOps frameworks. Explain what it means for a linear regression model to be interpretable. You may find [this resource](https://christophm.github.io/interpretable-ml-book/) useful.  
